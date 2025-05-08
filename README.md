@@ -1,3 +1,3 @@
 # Demo
 
-A demo file for github training
+A demo file for github training.
